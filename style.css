@@ -1,0 +1,21 @@
+body{
+    background: url(/bg1.jpg);
+    background-size: cover;
+
+}
+
+h1{
+    text-align: center;
+    color: red;
+    margin-bottom: 50px;
+}
+
+.ertak{
+    background-color: #FFF;
+    border-radius: 20px;
+    text-align: center;
+    width: 700px;
+    height: 370px;
+    margin: auto;
+    font-size: small;
+}
